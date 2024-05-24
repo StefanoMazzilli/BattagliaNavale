@@ -22,7 +22,6 @@ class Main {
 		
 		/*
 		 * DA AGGIUNGERE:
-		 *  - colori differenti per mancati, colpiti e navi;
 		 *  - visualizzazione di navi rimanenti alleate ed avversarie;
 		 *  - possibilità di scelta numero navi e lunghezza;
 		 *  - possibilità per il computer di colpire intorno alle navi colpite;
